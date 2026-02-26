@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-02-26",
+  "themes": [
+    {
+      "slug": "roict-basic",
+      "name": "ROICT Basic",
+      "description": "Clean, modern en responsive standaardthema. Meegeleverd met het CMS.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "free",
+      "included": true
+    }
+  ]
+}
