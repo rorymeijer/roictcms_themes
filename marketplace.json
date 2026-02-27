@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "updated": "2026-02-26",
+  "modules": [],
   "themes": [
     {
       "slug": "roict-basic",
@@ -22,7 +23,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included":true
+      "download_url": "https://raw.githubusercontent.com/rorymeijer/roictcms_themes/main/roict-black.zip"
     },
     {
       "slug": "roict-green",
@@ -33,18 +34,18 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": true
+      "download_url": "https://raw.githubusercontent.com/rorymeijer/roictcms_themes/main/roict-green.zip"
     },
     {
       "slug": "roict-premium",
-      "name": "ROICT Premiun",
+      "name": "ROICT Premium",
       "description": "Clean, modern en responsive standaardthema in Premium stijl.",
       "version": "1.0.0",
       "author": "ROICT",
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": true
+      "download_url": "https://raw.githubusercontent.com/rorymeijer/roictcms_themes/main/roict-premium.zip"
     },
     {
       "slug": "roict-red",
@@ -55,7 +56,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": true
+      "download_url": "https://raw.githubusercontent.com/rorymeijer/roictcms_themes/main/roict-red.zip"
     },
     {
       "slug": "roict-vip",
@@ -66,7 +67,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": true
+      "download_url": "https://raw.githubusercontent.com/rorymeijer/roictcms_themes/main/roict-vip.zip"
     }
   ]
 }
