@@ -22,7 +22,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": false
+      "included":true
     },
     {
       "slug": "roict-green",
@@ -33,7 +33,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": false
+      "included": true
     },
     {
       "slug": "roict-premium",
@@ -44,7 +44,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": false
+      "included": true
     },
     {
       "slug": "roict-red",
@@ -55,7 +55,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": false
+      "included": true
     },
     {
       "slug": "roict-vip",
@@ -66,7 +66,7 @@
       "downloads": 0,
       "rating": 5.0,
       "price": "free",
-      "included": false
+      "included": true
     }
   ]
 }
