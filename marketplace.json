@@ -12,6 +12,61 @@
       "rating": 5.0,
       "price": "free",
       "included": true
-    }
+    },
+    {
+      "slug": "roict-black",
+      "name": "ROICT Black",
+      "description": "Clean, modern en responsive standaardthema in het Zwart.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "1.00",
+      "included": false
+    },
+    {
+      "slug": "roict-green",
+      "name": "ROICT Green",
+      "description": "Clean, modern en responsive standaardthema in het Groen.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "1.00",
+      "included": false
+    },
+    {
+      "slug": "roict-premium",
+      "name": "ROICT Premiunm",
+      "description": "Clean, modern en responsive standaardthema in Premium stijl.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "1.00",
+      "included": false
+    },
+    {
+      "slug": "roict-red",
+      "name": "ROICT Red",
+      "description": "Clean, modern en responsive standaardthema in het Rood.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "1.00",
+      "included": false
+    },
+    {
+      "slug": "roict-vip",
+      "name": "ROICT VIP",
+      "description": "Clean, modern en responsive standaardthema in VIP stijl.",
+      "version": "1.0.0",
+      "author": "ROICT",
+      "downloads": 0,
+      "rating": 5.0,
+      "price": "1.00",
+      "included": false
+    },
   ]
 }
